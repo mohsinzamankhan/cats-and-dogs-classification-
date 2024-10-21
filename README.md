@@ -1,2 +1,2 @@
-# first_repo
-practice project
+# cats and dogs classification project
+
